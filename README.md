@@ -7,7 +7,7 @@ CONTRACT ADDRESS 0xE0846a2475f80C4356F40AF2baA38667C4181d8B
 ------------
 
 Discover Events with Evion
-Explore top events around the world, find events by category, and get inspired by trending events.create a logo for our website EVION
+Explore top events around the world, find events by category, and get inspired by trending events.
 
 
 ------------
